@@ -1,0 +1,15 @@
+{
+    "name": "pitchayakit/line-notify",
+    "autoload": {
+        "psr-4": {
+            "Pitchayakit\\LineNotify\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pitchayakit Pahamak",
+            "email": "pitchayakit.p@gmail.com"
+        }
+    ],
+    "require": {}
+}
