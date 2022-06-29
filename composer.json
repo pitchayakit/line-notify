@@ -11,5 +11,7 @@
             "email": "pitchayakit.p@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    }
 }
