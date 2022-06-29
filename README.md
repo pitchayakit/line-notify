@@ -11,5 +11,5 @@ composer require lexicon/line-notify
 ```php
 use Lexicon\LineNotify\LineNotify;
 
-LineNotify::sendMessage('{accessToken}', '{massage}');
+LineNotify::sendMessage('{accessToken}', '{message}');
 ```
