@@ -1,6 +1,6 @@
 <?php 
 
-namespace Pitchayakit\LineNotify;
+namespace Lexicon\LineNotify;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Psr7\Request;

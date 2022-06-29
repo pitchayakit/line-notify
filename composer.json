@@ -1,8 +1,8 @@
 {
-    "name": "pitchayakit/line-notify",
+    "name": "lexicon/line-notify",
     "autoload": {
         "psr-4": {
-            "Pitchayakit\\LineNotify\\": "src/"
+            "Lexicon\\LineNotify\\": "src/"
         }
     },
     "authors": [
