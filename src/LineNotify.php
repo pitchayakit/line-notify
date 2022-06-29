@@ -12,7 +12,7 @@ class LineNotify {
     {
         $client = new Client();
         $headers = [
-        'Content-Type' => '	application/x-www-form-urlencoded',
+        'Content-Type' => 'application/x-www-form-urlencoded',
         'Authorization' => "Bearer $token"
         ];
         $request = new Request('POST', "https://notify-api.line.me/api/notify?message=$message", $headers);
