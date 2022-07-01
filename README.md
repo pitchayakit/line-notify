@@ -1,4 +1,4 @@
-﻿# Laravel line notify
+﻿# Laravel Line notify
 
 ## How to install
 ```
